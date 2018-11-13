@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "206828326638",
+    "firebase_url": "https://kan-tech-movie-magic.firebaseio.com",
+    "project_id": "kan-tech-movie-magic",
+    "storage_bucket": "kan-tech-movie-magic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206828326638:android:068f20243713d16f",
+        "android_client_info": {
+          "package_name": "com.programming.kantech.moviemagic.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206828326638-j8k95cujc73bn2c22qee2bgjjoks9kes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programming.kantech.moviemagic.app",
+            "certificate_hash": "88dd0c9f756a4d951f3b941c95043c49d26d2ec7"
+          }
+        },
+        {
+          "client_id": "206828326638-6rfkdd9sg4g8iovnlh2gqab9ga93a03c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG0RoujtN1HgVhWi3W7-RCuBEA6fAyY84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206828326638-6rfkdd9sg4g8iovnlh2gqab9ga93a03c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206828326638:android:4327fcec7189d7e2",
+        "android_client_info": {
+          "package_name": "com.programming.kantech.moviemagictwo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206828326638-855fmb2of3734frsccbj0f1kahu5knrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programming.kantech.moviemagictwo.app",
+            "certificate_hash": "88dd0c9f756a4d951f3b941c95043c49d26d2ec7"
+          }
+        },
+        {
+          "client_id": "206828326638-6rfkdd9sg4g8iovnlh2gqab9ga93a03c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG0RoujtN1HgVhWi3W7-RCuBEA6fAyY84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206828326638-6rfkdd9sg4g8iovnlh2gqab9ga93a03c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

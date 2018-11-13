@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie Magic</string>
+    <string name="title_activity__signin">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="btn_signin">Google Sign In</string>
+    <string name="msg_signing_in">signing in ...</string>
+    <string name="msg_sign_in_complete">sign in complete</string>
+    <string name="msg_splash_initializing">initializing ...</string>
+    <string name="msg_no_network">Internet Not Detected</string>
+    <string name="msg_not_signed_in">not signed in ...</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_previous">Previous</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+</resources>
